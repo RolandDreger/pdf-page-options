@@ -7,7 +7,5 @@ https://www.rolanddreger.net/de/473/seiten-eigenschaften-platzierter-dateien-aen
 
 
 ## License
-Free Script for private and commercial use.
-Creativ Commons Licence: Roland Dreger, CC BY 3.0 AT
 
-Use at your own risk.
+[MIT](http://www.opensource.org/licenses/mit-license.php)
