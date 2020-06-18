@@ -10,7 +10,11 @@ You can use it as a **startup script** (recommended) or start it from the **scri
 2. Right mouse click
 3. Select the item "PDF Page Options ..."
 
+<img width="622" alt="pdf-page-options_context_menu" src="https://user-images.githubusercontent.com/19747449/85026182-a9222300-b178-11ea-9570-8b6f4186157f.png">
+
 In the dialog that appears you can change the options for the placed file.
+
+<img width="822" alt="pdf-page-options_dialog" src="https://user-images.githubusercontent.com/19747449/85026195-ab847d00-b178-11ea-865a-93944f7f9358.png">
 
 ## Website
 https://www.rolanddreger.net/de/473/seiten-eigenschaften-platzierter-dateien-aendern
